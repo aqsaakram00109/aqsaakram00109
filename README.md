@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm **Aqsa Akram**, a passionate **Data Analyst & AI Engin
 ## 🎓 Education
 
 **Government Sadiq Women University, Bahawalpur**  
-Bachelor’s in Biology | Exploring AI alongside academics
+Bachelor’s in Artificial Intelligence | Exploring AI alongside academics
 
 ---
 
