@@ -1,6 +1,6 @@
 # 👩‍💻 About Me – Aqsa Akram
 
-Welcome to my GitHub! I'm **Aqsa Akram**, a passionate **Data Analyst & AI Engineer** with a background in **Biology** and a growing expertise in **Generative AI** and **Data Science**. I love turning complex data into clear insights and building smart solutions using data, dashboards, and code.
+Welcome to my GitHub! I'm **Aqsa Akram**, a passionate **Data Analyst & AI Engineer** also a growing expertise in **Generative AI** and **Data Science**. I love turning complex data into clear insights and building smart solutions using data, dashboards, and code.
 
 ---
 
@@ -41,7 +41,7 @@ Bachelor’s in Artificial Intelligence | Exploring AI alongside academics
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/aqsa-akram/](https://www.linkedin.com/in/aqsa-akram/)  
+- **LinkedIn:** [https://www.linkedin.com/in/aqsa-akram00109/]
 - **Email:** aqsaakram00109@gmail.com
 
 ---
